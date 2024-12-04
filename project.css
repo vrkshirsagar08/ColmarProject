@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     line-height: 1.6;
     background-color: #f0f0f0;
   }
@@ -330,7 +330,7 @@ body {
   
 }
 
-.bottom-bar {
+.bottom1 {
 
   justify-content: space-between;
   
@@ -343,12 +343,10 @@ body {
  
 }
 
-.bottom-bar a {
+.bottom1 a {
   color: #555;
-
+  text-decoration: none;
   margin-bottom: 160px;
  
 }
-
-
 
